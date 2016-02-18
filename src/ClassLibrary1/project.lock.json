@@ -30,7 +30,7 @@
   "projectFileDependencyGroups": {
     "": [],
     ".NETFramework,Version=v4.5.1": [
-      "TestLibrary >= 1.0.0",
+      "TestLibrary >= 1.0.0-*",
       "fx/System.Runtime "
     ]
   }
