@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0-*",
+  "description": "ClassLibrary1 Class Library",
+  "authors": [ "Isaev" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "net451": {
+      "dependencies": {
+        "TestLibrary": "1.0.0"
+      },
+      "frameworkAssemblies": {
+        "System.Runtime": ""
+      }
+    }
+  }
+}
