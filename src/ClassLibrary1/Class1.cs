@@ -14,5 +14,9 @@ namespace ClassLibrary1
             TestLibrary.Class1 c = new TestLibrary.Class1();
             c.LibFunc();
         }
+
+        public void foo()
+        {
+        }
     }
 }
