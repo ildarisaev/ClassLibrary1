@@ -15,7 +15,7 @@ namespace ClassLibrary1
             c.LibFunc();
         }
 
-        public void moo()
+        public void zoo()
         {
         }
     }
